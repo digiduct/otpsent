@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp OTP Sender",
+  "description": "App to fetch OTPs from Google Sheets and send them via WhatsApp.",
+  "requestFramePermissions": []
+}
